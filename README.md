@@ -15,6 +15,10 @@
 
 ----
 
+#WARNING
+<p>i put all mpdules in gitignore to decrease size of files. when you want to run project,open terminal and write "npm install" and wait for installisation</p>
+
+
 
 Ordered:
 
